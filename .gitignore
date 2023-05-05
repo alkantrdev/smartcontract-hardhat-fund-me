@@ -1,0 +1,16 @@
+### CUSTOM ###
+_stashed
+_references/
+.encryptedKey.json
+gas-report.txt
+
+node_modules
+.env
+cache
+artifacts
+deployments/
+coverage
+coverage.json
+typechain
+typechain-types
+
