@@ -9,7 +9,7 @@
         copy from: Smartcontracts/artifacts/FundMe.sol/FundMe.json
     - Contract Address
 ```bash
-cd ./SmartContracs
+cd ./SmartContracts
 yarn hardhat node
 // get deployed contract address
 ```
